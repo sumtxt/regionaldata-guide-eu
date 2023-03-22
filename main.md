@@ -1,6 +1,6 @@
 # Europe-wide Data
 
-The main source for Europe-wide regional data is EUROSTAT's [Regional Database](https://ec.europa.eu/eurostat/web/regions/data/database) which relies on the NUTS nomenclature to reference regional units across the continent. As boundaries of regional units change over time, the NUTS nomenclature changes over time. A useful introduction appears on the [EUROSTAT website]([https://ec.europa.eu/eurostat/web/nuts/background).
+The main source for Europe-wide regional data is EUROSTAT's [Regional Database](https://ec.europa.eu/eurostat/web/regions/data/database) which relies on the NUTS nomenclature to reference regional units across the continent. As boundaries of regional units change over time, the NUTS nomenclature changes over time. A useful introduction appears on the [EUROSTAT website](https://ec.europa.eu/eurostat/web/nuts/background).
 
 Other useful data sources include:  
 
