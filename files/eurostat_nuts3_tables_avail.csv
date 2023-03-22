@@ -1,0 +1,65 @@
+﻿table_id,min,max,table_name
+aei_fm_ms,2000,2010,Manure storage facilities by NUTS 3 regions
+aei_pr_soiler,2000,2016,"Estimated soil erosion by water, by erosion level, land cover and NUTS 3 regions (source: JRC)"
+bd_enace2_r3,2008,2017,Employer business demography by NACE Rev. 2 and NUTS 3 regions
+bd_esize_r3,2008,2017,Employer business demography by size class and NUTS 3 regions
+bd_hgnace2_r3,2008,2017,Business demography and high growth enterprise by NACE Rev. 2 and NUTS 3 regions
+bd_size_r3,2008,2017,Business demography by size class and NUTS 3 regions
+cens_01ractz,2001,2001,"Employed persons aged 15 and over by sex, citizenship, economic activity (NACE Rev. 1), status in employment and NUTS 3 regions"
+cens_01ramigr,2001,2001,"Total and active population by sex, age, employment status, residence one year prior to the census and NUTS 3 regions"
+cens_01rapop,2001,2001,"Population by sex, age group, current activity status and NUTS 3 regions"
+cens_01rdbuild,2001,2001,Persons by type of building and NUTS 3 regions
+cens_01rdhh,2001,2001,"Dwellings by type of housing, building and NUTS 3 regions"
+cens_01reisco,2001,2001,"Employed persons by sex, age group, educational attainment level, occupation (ISCO-88) and NUTS 3 regions"
+cens_01rews,2001,2001,"Population by sex, age group, educational attainment level, current activity status and NUTS 3 regions"
+cens_01rhagchi,2001,2001,"Private households by composition, age group of children and NUTS 3 regions"
+cens_01rheco,2001,2001,"Private households by composition, size and NUTS 3 regions"
+cens_01rhsize,2001,2001,"Population by sex, age group, size of household and NUTS 3 regions"
+cens_01rhtype,2001,2001,"Population by sex, age group, household status and NUTS 3 regions"
+cens_01rsctz,2001,2001,"Population by sex, citizenship and NUTS 3 regions"
+cens_11ag_r3,2011,2011,Population by single year of age and NUTS 3 region
+cens_11dwob_r3,2011,2011,"Conventional dwellings by occupancy status, type of building and NUTS 3 region"
+cens_11fs_r3,2011,2011,Population by family status and NUTS 3 region
+cens_11fts_r3,2011,2011,"Families by type, size and NUTS 3 region"
+cens_11ms_r3,2011,2011,Population by marital status and NUTS 3 region
+crim_gen_reg,2008,2010,Crimes recorded by the police by NUTS 3 regions
+demo_r_births,1990,2018,Live births (total) by NUTS 3 region
+demo_r_d3area,1990,2015,Area by NUTS 3 region
+demo_r_d3dens,1990,2018,Population density by NUTS 3 region
+demo_r_deaths,1990,2018,Deaths (total) by NUTS 3 region
+demo_r_fagec3,2013,2018,Live births by age group of the mothers and NUTS 3 region
+demo_r_find3,2013,2018,Fertility indicators by NUTS 3 region
+demo_r_gind3,2000,2019,Population change - Demographic balance and crude rates at regional level (NUTS 3) 
+demo_r_magec3,2013,2018,"Deaths by age group, sex and NUTS 3 region"
+demo_r_mweek3,,,"Deaths by week, sex, 5-year age group and NUTS 3 region"
+demo_r_mwk3_10,,,"Deaths by week, sex, 10-year age group and NUTS 3 region"
+demo_r_mwk3_20,,,"Deaths by week, sex, 20-year age group and NUTS 3 region"
+demo_r_mwk3_t,,,Deaths by week and NUTS 3 region
+demo_r_mwk3_ts,,,"Deaths by week, sex and NUTS 3 region"
+demo_r_pjanaggr3,1990,2019,"Population on 1 January by broad age group, sex and NUTS 3 region"
+demo_r_pjangrp3,2014,2019,"Population on 1 January by age group, sex and NUTS 3 region"
+demo_r_pjanind3,2014,2019,Population: Structure indicators by NUTS 3 region
+ef_r_nuts,2000,2007,Structure of agricultural holdings by NUTS 3 regions - main indicators
+ipr_da_gdpr,2003,2014,Community design (CD) applications per billion GDP by NUTS 3 regions
+ipr_da_popr,2003,2015,Community design (CD) applications per million population by NUTS 3 regions
+ipr_da_reg,2003,2016,Community design (CD) applications by NUTS 3 regions
+ipr_dfa_reg,2003,2016,Community designs (CD) by NUTS 3 regions
+ipr_dr_reg,2003,2016,Registered Community designs (RCD) by NUTS 3 regions
+ipr_ta_gdpr,2000,2014,European Union trade mark (EUTM) applications per billion GDP by NUTS 3 regions
+ipr_ta_popr,1996,2015,European Union trade mark (EUTM) applications per million population by NUTS 3 regions
+ipr_ta_reg,1996,2016,European Union trade mark (EUTM) applications by NUTS 3 regions
+lfst_r_lmder,1999,2018,Dispersion of regional employment rates by NUTS 3 regions (%)
+lfst_r_lmdur,1999,2018,Dispersion of regional unemployment rates by NUTS 3 regions (%)
+nama_10r_3empers,1995,2018,Employment (thousand persons) by NUTS 3 regions
+nama_10r_3gdp,2000,2018,Gross domestic product (GDP) at current market prices by NUTS 3 regions
+nama_10r_3gva,1995,2018,Gross value added at basic prices by NUTS 3 regions
+nama_10r_3popgdp,2000,2018,Average annual population to calculate regional GDP data (thousand persons) by NUTS 3 regions
+pat_ep_ripc,1977,2012,"Patent applications to the EPO by priority year by NUTS 3 regions, international patent classification (IPC) sections and classes"
+pat_ep_rtec,1977,2012,High-tech patent applications to the EPO by priority year by NUTS 3 regions
+pat_ep_rtot,1977,2012,Patent applications to the EPO by priority year by NUTS 3 regions
+reg_area3,2013,2016,Area by NUTS 3 region
+road_go_na_rl3g,2008,2019,"National annual road freight transport by regions of loading (NUTS 3) and by group of goods (1 000 t), from 2008 onwards"
+road_go_na_ru3g,2008,2019,"National annual road freight transport by regions of unloading (NUTS 3) and by group of goods (1 000 t), from 2008 onwards"
+road_go_na7rl3g,1999,2007,"National annual road freight transport by regions of loading (NUTS 3) and by group of goods (1 000 t), until 2007"
+road_go_na7ru3g,1999,2007,"National annual road freight transport by regions of unloading (NUTS 3) and by group of goods (1 000 t), until 2007"
+tour_cap_nuts3,1990,2011,"Number of establishments, bedrooms and bed-places by NUTS 3 regions (1990-2011)"

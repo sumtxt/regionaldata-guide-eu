@@ -1,0 +1,235 @@
+﻿table_id,min,max,table_name
+aei_ef_ir,,,Share of irrigable and irrigated areas in utilised agricultural area (UAA) by NUTS 2 regions
+aei_ef_ir,2005,2016,Share of irrigable and irrigated areas in utilised agricultural area (UAA) by NUTS 2 regions
+aei_ef_ls,,,Share of main livestock types in total livestock units (LSU) by NUTS 2 regions
+aei_ef_ls,2005,2016,Share of main livestock types in total livestock units (LSU) by NUTS 2 regions
+aei_ef_lu,,,Share of main land types in utilised agricultural area (UAA) by NUTS 2 regions
+aei_ef_lu,2005,2016,Share of main land types in utilised agricultural area (UAA) by NUTS 2 regions
+agr_r_accts,1973,2018,Economic accounts for agriculture by NUTS 2 regions
+agr_r_accts_h,,,Economic accounts for agriculture by NUTS 2 regions (until 2012)
+agr_r_accts_h,1973,2012,Economic accounts for agriculture by NUTS 2 regions (until 2012)
+agr_r_animal,1977,2019,Animal populations by NUTS 2 regions
+agr_r_milkpr,1995,2019,Production of cow's milk on farms by NUTS 2 regions
+apro_cpnhr,,,Crop production in national humidity by NUTS 2 regions
+apro_cpnhr,2000,2020,Crop production in national humidity by NUTS 2 regions
+apro_cpnhr_h,,,Crop production by NUTS 2 regions - historical data (1975-1999)
+apro_cpnhr_h,1975,1999,Crop production by NUTS 2 regions - historical data (1975-1999)
+apro_cpshr,,,Crop production in EU standard humidity by NUTS 2 regions
+apro_cpshr,2000,2020,Crop production in EU standard humidity by NUTS 2 regions
+cens_11aed_r2,2011,2011,"Population by current activity status, educational attainment level and NUTS 2 region"
+cens_11an_r2,2011,2011,"Population by current activity status, NACE Rev. 2 activity and NUTS 2 region"
+cens_11ao_r2,2011,2011,"Population by current activity status, occupation and NUTS 2 region"
+cens_11arco_r2,2011,2011,"Population by period of arrival in the country, country of birth and NUTS 2 region"
+cens_11coba_r2,2011,2011,"Population by group of country of birth, current activity status and NUTS 2 region"
+cens_11cobe_r2,2011,2011,"Population by group of country of birth, educational attainment level and NUTS 2 region"
+cens_11cobo_r2,2011,2011,"Population by group of country of birth, occupation and NUTS 2 region"
+cens_11ctzo_r2,2011,2011,"Population by group of citizenship, occupation and NUTS 2 region"
+cens_11empn_r2,2011,2011,"Population by status in employment, NACE Rev. 2 activity and NUTS 2 region"
+cens_11empo_r2,2011,2011,"Population by status in employment, occupation and NUTS 2 region"
+cens_11hou_r2,2011,2011,Population by housing arrangement and NUTS 2 region
+cens_11htts_r2,2011,2011,"Private households by type, tenure status and NUTS 2 region"
+demo_r_d2jan,1990,2019,"Population on 1 January by age, sex and NUTS 2 region"
+demo_r_fagec,1990,2018,Live births by mother's age and NUTS 2 region
+demo_r_find2,1990,2018,Fertility indicators by NUTS 2 region
+demo_r_frate2,1990,2018,Fertility rates by age and NUTS 2 region
+demo_r_magec,1990,2018,"Deaths by age, sex and NUTS 2 region"
+demo_r_minf,1990,2018,Infant mortality by NUTS 2 region
+demo_r_minfind,1990,2018,Infant mortality rates by NUTS 2 region
+demo_r_mlife,1990,2018,Life table by NUTS 2 region
+demo_r_mlifexp,1990,2018,"Life expectancy by age, sex and NUTS 2 region"
+demo_r_mwk2_05,,,"Deaths by week, sex, 5-year age group and NUTS 2 region"
+demo_r_mwk2_10,,,"Deaths by week, sex, 10-year age group and NUTS 2 region"
+demo_r_mwk2_20,,,"Deaths by week, sex, 20-year age group and NUTS 2 region"
+demo_r_mwk2_ts,,,"Deaths by week, sex and NUTS 2 region"
+demo_r_pjangroup,1990,2019,"Population on 1 January by age group, sex and NUTS 2 region"
+demo_r_pjanind2,1990,2019,Population: Structure indicators by NUTS 2 region
+edat_lfs_9917,2004,2019,"Population by educational attainment level, sex, age, country of birth and NUTS 2 regions (%)"
+edat_lfs_9918,2004,2019,"Population by educational attainment level, sex, age, citizenship and NUTS 2 regions (%)"
+edat_lfse_04,2000,2019,"Population aged 25-64 by educational attainment level, sex and NUTS 2 regions (%)"
+edat_lfse_12,2000,2019,"Population aged 30-34 by educational attainment level, sex and NUTS 2 regions (%)"
+edat_lfse_16,2000,2019,Early leavers from education and training by sex and NUTS 2 regions
+edat_lfse_22,2000,2019,Young people neither in employment nor in education and training by sex and NUTS 2 regions (NEET rates)
+edat_lfse_33,2000,2019,"Employment rates of young people not in education and training by sex, educational attainment level, years since completion of highest level of education and NUTS 2 regions"
+edat_lfse_37,2004,2019,"Young people neither in employment nor in education and training by sex, age, country of birth and NUTS 2 regions (NEET rates)"
+edat_lfse_38,2004,2019,"Young people neither in employment nor in education and training by sex, age, citizenship and NUTS 2 regions (NEET rates)"
+educ_regind,1998,2012,Education indicators by NUTS 2 regions
+educ_renrlrg1,1998,2012,"Students by level of education, orientation, sex and NUTS 2 regions"
+educ_renrlrg3,1998,2012,"Students by age, sex and NUTS 2 regions"
+ef_kvaareg,2005,2013,"Key farm variables: area, livestock (LSU), labour force and standard output (SO) by agricultural size of farm (UAA), legal status of holding and NUTS 2 regions"
+ef_kvecsleg,2005,2013,"Key variables: area, livestock (LSU), labour force and standard output (SO) by economic size of farm (SO in Euro), legal status of holding and NUTS 2 regions"
+ef_kvftreg,2005,2013,"Key variables: area, livestock (LSU), labour force and standard output (SO) by type of farming (2-digit) and NUTS 2 regions"
+ef_lac_cereals,,,Cereals by NUTS 2 regions
+ef_lac_dpuls,,,Dried crop pulses by NUTS 2 regions
+ef_lac_flower,,,Flowers and ornamental plants by NUTS 2 regions
+ef_lac_greenfal,,,Plants harvested green and fallow land by NUTS 2 regions
+ef_lac_indus,,,Industrial crops by NUTS 2 regions
+ef_lac_main,,,Main crops by NUTS 2 regions
+ef_lac_rootcrop,,,Root crops by NUTS 2 regions
+ef_lac_vege,,,Vegetables by NUTS 2 regions
+ef_ls_ovaareg,1990,2007,Livestock: number of farms and heads by size of farm (UAA) and NUTS 2 regions
+ef_ls_ovesu,1990,2007,Livestock: number of farms and heads by economic size of farm (ESU) and NUTS 2 regions
+ef_ls_ovlsureg,1990,2007,Livestock: number of farms and heads by livestock units (LSU) of farm and NUTS 2 regions
+ef_lsk_bovine,,,Bovine animals by NUTS 2 regions
+ef_lsk_bovine,2016,2016,Bovine animals by NUTS 2 regions
+ef_lsk_gpig,,,Pig by NUTS 2 regions
+ef_lsk_gpig,2013,2016,Pig by NUTS 2 regions
+ef_lsk_main,,,Main livestock indicators by NUTS 2 regions
+ef_lsk_poultry,,,Poultry by NUTS 2 regions
+ef_lsk_poultry,2013,2016,Poultry by NUTS 2 regions
+ef_lsk_sheep,,,Sheep by NUTS 2 regions
+ef_lsk_sheep,2016,2016,Sheep by NUTS 2 regions
+ef_lu_ofirrig,1990,2007,"Irrigation: number of farms, areas and equipment by size of farm (UAA) and NUTS 2 regions"
+ef_lu_ovcropaa,1990,2007,Farmland: number of farms and areas by size of farm (UAA) and NUTS 2 regions
+ef_lu_ovcropesu,1990,2007,Farmland: number of farms and areas by economic size of farm (ESU) and NUTS 2 regions
+ef_lu_pcreg,1990,2007,"Permanent crops: number of farms and areas by size of farm (UAA), size of permanent crop area and NUTS 2 regions"
+ef_lus_allcrops,,,Crops by classes of utilised agricultural area in number of farms and hectare by NUTS 2 regions
+ef_lus_main,,,Main farm land use by NUTS 2 regions
+ef_lus_pegrass,,,Permanent grassland by NUTS 2 regions
+ef_lus_sparea,,,Special areas and other farmland by NUTS 2 regions
+ef_lus_unglass,,,Under glass by NUTS 2 regions
+ef_m_farmang,,,"Farm indicators by agricultural area, type of farm, standard output, sex and age of the manager and NUTS 2 regions"
+ef_m_farmleg,,,"Farm indicators by agricultural area, type of farm, standard output, legal form and NUTS 2 regions"
+ef_mporganic,2003,2013,"Organic farming: number of farms, areas with different crops and heads of different types of animals by agricultural size of farm (UAA) and NUTS 2 regions"
+ef_mptenure,2005,2013,Type of tenure: number of farms and areas by agricultural size of farm (UAA) and NUTS 2 regions
+ef_mptenurecs,2005,2013,Type of tenure: number of farms and areas by economic size of farm (SO in Euro) and NUTS 2 regions
+ef_olfreg,2005,2013,Labour force: number of persons and farm work (AWU) by sex of workers and NUTS 2 regions
+ef_olsaareg,2005,2013,Livestock: number of farms and heads of animals of different types by agricultural size of farm (UAA) and NUTS 2 regions
+ef_olsecsreg,2005,2013,Livestock: number of farms and heads of animals by economic size of farm (SO in Euro) and NUTS 2 regions
+ef_olslsureg,2005,2013,Livestock: number of farms and heads of animals by livestock units (LSU) of farm and NUTS 2 regions
+ef_oluaareg,2005,2013,Land use: number of farms and areas of different crops by agricultural size of farm (UAA) and NUTS 2 regions
+ef_oluecsreg,2005,2013,Land use: number of farms and areas of different crops by economic size of farm (SO in Euro) and NUTS 2 regions
+ef_ov_kvaa,1990,2007,"Key variables by legal status of holding, size of farm (UAA) and NUTS 2 regions"
+ef_ov_kvftreg,2000,2007,Key variables by type of farming (2-digit) and NUTS 2 regions
+ef_poirrig,2005,2013,"Irrigation: number of farms, areas and equipment by size of irrigated area and NUTS 2 regions"
+ef_popermreg,2005,2013,Permanent crops: number of farms and areas by size of permanent crop area and NUTS 2 regions
+ef_so_lfaa,1990,2007,"Labour force: number of persons and farm work (AWU) by sex of worker, category of worker, legal status of holding, size of farm (UAA) and NUTS 2 regions"
+ef_so_lfesu,1990,2007,"Labour force: number of persons and farm work (AWU) by sex of worker, category of worker, legal status of holding, economic size of farm (ESU) and NUTS 2 regions"
+ef_so_mporg,2000,2007,Organic farming: selected variables by size of farm (UAA) and NUTS 2 regions
+ef_so_mptenure,1990,2007,Type of tenure: number of farms and areas by size of farm (UAA) and NUTS 2 regions
+env_rwas_cov,2000,2013,Coverage rate of municipal waste collection by NUTS 2 regions - pilot project data
+env_rwas_gen,2000,2013,Municipal waste by NUTS 2 regions - pilot project data
+env_wasfac,,,Number and capacity of recovery and disposal facilities by NUTS 2 regions
+env_wasfac,2004,2018,Number and capacity of recovery and disposal facilities by NUTS 2 regions
+hlth_cd_acdr,1994,2010,Causes of death by NUTS 2 regions - crude death rate per 100 000 inhabitants - annual data
+hlth_cd_acdr2,2011,2017,Causes of death - crude death rate by NUTS 2 region of residence
+hlth_cd_ycdr2,2013,2016,"Causes of death - crude death rate by NUTS 2 regions of residence, 3 year average"
+hlth_cd_ycdrf,1996,2010,"Causes of death by NUTS 2 regions - crude death rate per 100 000 inhabitants, 3 year average - females"
+hlth_cd_ycdrm,1996,2010,"Causes of death by NUTS 2 regions - crude death rate per 100 000 inhabitants, 3 year average - males"
+hlth_cd_ycdrt,1998,2010,"Causes of death by NUTS 2 regions - crude death rate per 100 000 inhabitants, 3 year average - total"
+hlth_cd_yinfo,2013,2016,"Causes of death - infant mortality by NUTS 2 region of occurrence, 3 year average"
+hlth_cd_yinfr,2013,2016,"Causes of death - infant mortality by NUTS 2 region of residence, 3 year average"
+hlth_cd_ynrf,1998,2010,"Causes of death by NUTS 2 regions - absolute number, 3 year average - females"
+hlth_cd_ynrm,1998,2010,"Causes of death by NUTS 2 regions - absolute number, 3 year average - males"
+hlth_cd_ynrt,1998,2010,"Causes of death by NUTS 2 regions - absolute number, 3 year average - total"
+hlth_cd_yperrto,2013,2016,"Fetal, peri- and neonatal mortality rates by NUTS 2 region of occurrence, 3 year average"
+hlth_cd_ypyll,2013,2016,"Causes of death - years and potential years of life lost by NUTS 2 regions of residence, 3 year average"
+hlth_cd_yro,2013,2016,"Causes of death - deaths by NUTS 2 region of residence and occurrence, 3 year average"
+hlth_cd_ysdr1,1996,2010,"Causes of death by NUTS 2 regions - standardised death rate per 100 000 inhabitants, 3 year average"
+hlth_cd_ysdr2,2013,2016,"Causes of death - standardised death rate by NUTS 2 region of residence, 3 year average"
+hlth_co_disch1f,2000,2018,"Hospital discharges by diagnosis, NUTS 2 regions, in-patients and total number - females"
+hlth_co_disch1m,2000,2018,"Hospital discharges by diagnosis and NUTS 2 regions, in-patients, total number - males"
+hlth_co_disch1t,2000,2018,"Hospital discharges by diagnosis and NUTS 2 regions, in-patients, total number - total"
+hlth_co_disch2f,2000,2018,"Hospital discharges by diagnosis and NUTS 2 regions, in-patients, per 100 000 inhabitants - females"
+hlth_co_disch2m,2000,2018,"Hospital discharges by diagnosis and NUTS 2 regions, in-patients, per 100 000 inhabitants - males"
+hlth_co_disch2t,2000,2018,"Hospital discharges by diagnosis and NUTS 2 regions, in-patients, per 100 000 inhabitants - total"
+hlth_co_disch3f,2000,2018,"Hospital discharges by diagnosis and NUTS 2 regions, day cases, total number - females"
+hlth_co_disch3m,2000,2018,"Hospital discharges by diagnosis and NUTS 2 regions, day cases, total number - males"
+hlth_co_disch3t,2000,2018,"Hospital discharges by diagnosis and NUTS 2 regions, day cases, total number - total"
+hlth_co_disch4f,2000,2018,"Hospital discharges by diagnosis and NUTS 2 regions, day cases, per 100 000 inhabitants - females"
+hlth_co_disch4m,2000,2018,"Hospital discharges by diagnosis and NUTS 2 regions, day cases, per 100 000 inhabitants - males"
+hlth_co_disch4t,2000,2018,"Hospital discharges by diagnosis and NUTS 2 regions, day cases, per 100 000 inhabitants - total"
+hlth_co_hosdayf,1999,2018,Hospital days of in-patients by NUTS 2 regions - females
+hlth_co_hosdaym,1999,2018,Hospital days of in-patients by NUTS 2 regions - males
+hlth_co_hosdayt,1999,2018,Hospital days of in-patients by NUTS 2 regions - total
+hlth_co_inpstf,1999,2018,In-patient average length of stay (days) by NUTS 2 regions - females
+hlth_co_inpstm,1999,2018,In-patient average length of stay (days) by NUTS 2 regions - males
+hlth_co_inpstt,1999,2018,In-patient average length of stay (days) by NUTS 2 regions - total
+hlth_db_emrena,2002,2002,"Prevalence of disability by sex, economic activity (NACE Rev. 1) and NUTS 2 regions"
+hlth_rs_bdsns,1980,2019,Long-term care beds in nursing and residential care facilities by NUTS 2 regions
+hlth_rs_bdsrg,1993,2019,Hospital beds by NUTS 2 regions
+hlth_rs_prsrg,1993,2019,Health personnel by NUTS 2 regions
+hlth_silc_08_r,2017,2019,Self-reported unmet needs for medical examination by main reason declared and NUTS 2 regions
+hrst_st_rcat,1999,2019,HRST by category and NUTS 2 regions
+htec_emp_reg,1999,2008,"Employment in technology and knowledge-intensive sectors by NUTS 2 regions and sex (1994-2008, NACE Rev. 1.1)"
+htec_emp_reg2,2008,2019,"Employment in technology and knowledge-intensive sectors by NUTS 2 regions and sex (from 2008 onwards, NACE Rev. 2)"
+ilc_di11_r,2014,2019,Income quintile share ratio S80/S20 by NUTS 2 regions - EU-SILC survey
+ilc_li02_r,2014,2019,At-risk-of-poverty rate by NUTS 2 regions - EU-SILC survey
+ilc_li10_r,2014,2019,At-risk-of-poverty rate before social transfers (pensions excluded from social transfers) by NUTS 2 regions - EU-SILC survey
+jvs_a_nace1,2000,2008,"Job vacancy statistics by occupation, NUTS 2 regions and NACE Rev. 1.1 activity - annual data (2000-2008)"
+jvs_a_nace2,2008,2015,"Job vacancy statistics by occupation, NUTS 2 regions and NACE Rev. 2 activity - annual data (2008-2015)"
+jvs_q_isco_r2,2001,2020,"Job vacancy statistics by  NACE Rev. 2 activity, occupation and NUTS 2 regions - quarterly data"
+lan_lcv_art,2009,2015,Land covered by artificial surfaces by NUTS 2 regions
+lan_lcv_fao,2009,2018,Land cover for FAO Forest categories by NUTS 2 regions
+lan_lcv_ovw,2009,2015,Land cover overview by NUTS 2 regions
+lan_use_ovw,2009,2015,Land use overview by NUTS 2 regions
+lfst_r_egad,1999,2019,"Employment by sex, age, job tenure and NUTS 2 regions"
+lfst_r_lfe2ecomm,1999,2019,"Employment and commuting by sex, age and NUTS 2 regions"
+lfst_r_lfe2eedu,1999,2019,"Employment by sex, age, educational attainment level and NUTS 2 regions (1 000)"
+lfst_r_lfe2eftpt,1999,2019,"Employment by full-time/part-time, sex and NUTS 2 regions (1 000)"
+lfst_r_lfe2ehour,1999,2019,"Average number of usual weekly hours of work in main job by sex, age and NUTS 2 regions (hours)"
+lfst_r_lfe2emp,1999,2019,"Employment by sex, age and NUTS 2 regions (1 000)"
+lfst_r_lfe2emprc,1999,2019,"Employment rates by sex, age, educational attainment level, country of birth and NUTS 2 regions"
+lfst_r_lfe2emprt,1999,2019,"Employment rates by sex, age and NUTS 2 regions (%)"
+lfst_r_lfe2emprtn,1999,2019,"Employment rates by sex, age, educational attainment level, citizenship and NUTS 2 regions"
+lfst_r_lfe2en1,1999,2008,"Employment by age, economic activity and NUTS 2 regions (1999-2008, NACE Rev. 1.1) - 1 000"
+lfst_r_lfe2en2,2008,2019,"Employment by age, economic activity and NUTS 2 regions (NACE Rev. 2) - 1 000"
+lfst_r_lfe2estat,1999,2019,"Employment by age, professional status and NUTS 2 regions (1 000)"
+lfst_r_lfp2acedu,1999,2019,"Economically active population by sex, age, educational attainment level and NUTS 2 regions (1 000)"
+lfst_r_lfp2act,1999,2019,"Economically active population by sex, age and NUTS 2 regions (1 000)"
+lfst_r_lfp2actrc,1999,2019,"Activity rates by sex, age, educational attainment level, country of birth and NUTS 2 regions"
+lfst_r_lfp2actrt,1999,2019,"Economic activity rates by sex, age and NUTS 2 regions (%)"
+lfst_r_lfp2actrtn,1999,2019,"Activity rates by sex, age, educational attainment level, citizenship and NUTS 2 regions"
+lfst_r_lfsd2hh,1999,2019,Number of households by degree of urbanisation and NUTS 2 regions (1 000)
+lfst_r_lfsd2pop,1999,2019,"Population aged 15 and over by sex, age and NUTS 2 regions (1 000)"
+lfst_r_lfsd2pwc,1999,2019,"Population by sex, age, country of birth, labour status and NUTS 2 regions"
+lfst_r_lfsd2pwn,1999,2019,"Population by sex, age, citizenship, labour status and NUTS 2 regions"
+lfst_r_lfu2gac,1999,2019,"Unemployment by sex, age, country of birth and NUTS 2 regions"
+lfst_r_lfu2gan,1999,2019,"Unemployment by sex, age, citizenship and NUTS 2 regions"
+lfst_r_lfu2ltu,1999,2019,Long-term unemployment (12 months and more) by NUTS 2 regions
+lfst_r_lfu3pers,1999,2019,"Unemployment by sex, age and NUTS 2 regions (1 000)"
+lfst_r_lfu3rt,1999,2019,"Unemployment rates by sex, age and NUTS 2 regions (%)"
+lfst_r_lfur2gac,1999,2019,"Unemployment rates by sex, age, country of birth and NUTS 2 regions"
+lfst_r_lfur2gan,1999,2019,"Unemployment rates by sex, age, citizenship and NUTS 2 regions"
+nama_10r_2coe,1995,2018,Compensation of employees by NUTS 2 regions
+nama_10r_2emhrw,1995,2018,Employment (thousand hours worked) by NUTS 2 regions
+nama_10r_2gdp,2000,2018,Gross domestic product (GDP) at current market prices by NUTS 2 regions
+nama_10r_2gfcf,1995,2018,Gross fixed capital formation by NUTS 2 regions
+nama_10r_2gvagr,1996,2018,Real growth rate of regional gross value added (GVA) at basic prices by NUTS 2 regions - percentage change on previous year
+nama_10r_2hhinc,1995,2018,Income of households by NUTS 2 regions
+nrg_chddr2_a,1979,2019,Cooling and heating degree days by NUTS 2 regions - annual data
+nrg_chddr2_m,1979,2019,Cooling and heating degree days by NUTS 2 regions - monthly data
+rd_e_gerdreg,1980,2017,Intramural R&D expenditure (GERD) by sectors of performance and NUTS 2 regions
+rd_p_persreg,1980,2017,"Total R&D personnel and researchers by sectors of performance, sex and NUTS 2 regions"
+sbs_cre_rreg,1997,2007,"Number of local units, persons employed and wages and salaries by NUTS 2 regions"
+sbs_r_3f_my,1999,2004,Multi yearly statistics by NUTS 2 regions (NUTS 2006)
+sbs_r_3k_my_r2,2009,2014,"Multiannual statistics for distributive trades (NACE Rev. 2, G) by NUTS 2 regions"
+sbs_r_nuts03,1995,2007,SBS data by NUTS 2 regions (NUTS 2006) and NACE Rev. 1.1 (1995-2007)
+sbs_r_nuts06_r2,2008,2018,SBS data by NUTS 2 regions and NACE Rev. 2 (from 2008 onwards)
+tour_cap_nuts2,1990,2019,"Number of establishments, bedrooms and bed-places by NUTS 2 regions"
+tour_cap_nuts2c,2012,2019,"Number of establishments, bedrooms and bed-places by coastal and non-coastal area and by NUTS 2 regions (from 2012 onwards)"
+tour_cap_nuts2d,2012,2019,"Number of establishments, bedrooms and bed-places by degree of urbanisation and by NUTS 2 regions (from 2012 onwards)"
+tour_occ_anor2,2012,2019,"Net occupancy rate of bed-places and bedrooms in hotels and similar accommodation (NACE Rev. 2, I, 55.1) by NUTS 2 regions (from 2012 onwards)"
+tour_occ_arn2,1990,2019,Arrivals at tourist accommodation establishments by NUTS 2 regions
+tour_occ_nin2,1990,2019,Nights spent at tourist accommodation establishments by NUTS 2 regions
+tour_occ_nin2c,2012,2019,Nights spent at tourist accommodation establishments by coastal and non-coastal area and by NUTS 2 regions (from 2012 onwards)
+tour_occ_nin2d,2012,2019,Nights spent at tourist accommodation establishments by degree of urbanisation and by NUTS 2 regions (from 2012 onwards)
+tran_r_acci,1990,2018,Victims in road accidents by NUTS 2 regions
+tran_r_avgo_nm,1993,2018,Air transport of freight by NUTS 2 regions
+tran_r_avgo_om,1978,2002,Air transport of freight by NUTS 2 regions (questionnaire)
+tran_r_avpa_nm,1993,2018,Air transport of passengers by NUTS 2 regions
+tran_r_avpa_om,1978,2002,Air transport of passengers by NUTS 2 regions (questionnaire)
+tran_r_mago_nm,1997,2018,Maritime transport of freight by NUTS 2 regions
+tran_r_mago_om,1978,2002,Maritime transport of freight by NUTS 2 regions (questionnaire)
+tran_r_mapa_nm,1997,2018,Maritime transport of passengers by NUTS 2 regions
+tran_r_mapa_om,1978,2002,Maritime transport of passengers by NUTS 2 regions (questionnaire)
+tran_r_net,1990,2018,"Road, rail and navigable inland waterways networks by NUTS 2 regions"
+tran_r_rago,2005,2015,Railway transport - national and international railway goods transport by loading/unloading NUTS 2 region
+tran_r_rapa,2005,2015,Railway transport - national and international railway passengers transport by loading/unloading NUTS 2 region
+tran_r_vehst,1990,2018,Stock of vehicles by category and NUTS 2 regions
+trng_lfse_04,2000,2019,Participation rate in education and training (last 4 weeks) by NUTS 2 regions
+vit_bs4_ro,,,"Area under wine-grape vine varieties broken down by vine variety, age of the vines and NUTS 2 regions - Romania"
+vit_bs4_ro,2009,2009,"Area under wine-grape vine varieties broken down by vine variety, age of the vines and NUTS 2 regions - Romania"
+yth_empl_030,1999,2019,"Youth employment rate by sex, age and NUTS 2 regions"
+yth_empl_110,1999,2019,"Youth unemployment rate by sex, age and NUTS 2 regions"
+yth_empl_130,1999,2019,"Youth long-term unemployment rate (12 months or longer) by sex, age and NUTS 2 regions"
+yth_empl_140,1999,2019,"Youth unemployment ratio by sex, age and NUTS 2 regions"
