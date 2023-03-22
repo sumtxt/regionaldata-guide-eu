@@ -1,20 +1,13 @@
 ﻿table_id,min,max,table_name
-aei_ef_ir,,,Share of irrigable and irrigated areas in utilised agricultural area (UAA) by NUTS 2 regions
 aei_ef_ir,2005,2016,Share of irrigable and irrigated areas in utilised agricultural area (UAA) by NUTS 2 regions
-aei_ef_ls,,,Share of main livestock types in total livestock units (LSU) by NUTS 2 regions
 aei_ef_ls,2005,2016,Share of main livestock types in total livestock units (LSU) by NUTS 2 regions
-aei_ef_lu,,,Share of main land types in utilised agricultural area (UAA) by NUTS 2 regions
 aei_ef_lu,2005,2016,Share of main land types in utilised agricultural area (UAA) by NUTS 2 regions
 agr_r_accts,1973,2018,Economic accounts for agriculture by NUTS 2 regions
-agr_r_accts_h,,,Economic accounts for agriculture by NUTS 2 regions (until 2012)
 agr_r_accts_h,1973,2012,Economic accounts for agriculture by NUTS 2 regions (until 2012)
 agr_r_animal,1977,2019,Animal populations by NUTS 2 regions
 agr_r_milkpr,1995,2019,Production of cow's milk on farms by NUTS 2 regions
-apro_cpnhr,,,Crop production in national humidity by NUTS 2 regions
 apro_cpnhr,2000,2020,Crop production in national humidity by NUTS 2 regions
-apro_cpnhr_h,,,Crop production by NUTS 2 regions - historical data (1975-1999)
 apro_cpnhr_h,1975,1999,Crop production by NUTS 2 regions - historical data (1975-1999)
-apro_cpshr,,,Crop production in EU standard humidity by NUTS 2 regions
 apro_cpshr,2000,2020,Crop production in EU standard humidity by NUTS 2 regions
 cens_11aed_r2,2011,2011,"Population by current activity status, educational attainment level and NUTS 2 region"
 cens_11an_r2,2011,2011,"Population by current activity status, NACE Rev. 2 activity and NUTS 2 region"
@@ -69,14 +62,10 @@ ef_lac_vege,,,Vegetables by NUTS 2 regions
 ef_ls_ovaareg,1990,2007,Livestock: number of farms and heads by size of farm (UAA) and NUTS 2 regions
 ef_ls_ovesu,1990,2007,Livestock: number of farms and heads by economic size of farm (ESU) and NUTS 2 regions
 ef_ls_ovlsureg,1990,2007,Livestock: number of farms and heads by livestock units (LSU) of farm and NUTS 2 regions
-ef_lsk_bovine,,,Bovine animals by NUTS 2 regions
 ef_lsk_bovine,2016,2016,Bovine animals by NUTS 2 regions
-ef_lsk_gpig,,,Pig by NUTS 2 regions
 ef_lsk_gpig,2013,2016,Pig by NUTS 2 regions
 ef_lsk_main,,,Main livestock indicators by NUTS 2 regions
-ef_lsk_poultry,,,Poultry by NUTS 2 regions
 ef_lsk_poultry,2013,2016,Poultry by NUTS 2 regions
-ef_lsk_sheep,,,Sheep by NUTS 2 regions
 ef_lsk_sheep,2016,2016,Sheep by NUTS 2 regions
 ef_lu_ofirrig,1990,2007,"Irrigation: number of farms, areas and equipment by size of farm (UAA) and NUTS 2 regions"
 ef_lu_ovcropaa,1990,2007,Farmland: number of farms and areas by size of farm (UAA) and NUTS 2 regions
@@ -108,7 +97,6 @@ ef_so_mporg,2000,2007,Organic farming: selected variables by size of farm (UAA) 
 ef_so_mptenure,1990,2007,Type of tenure: number of farms and areas by size of farm (UAA) and NUTS 2 regions
 env_rwas_cov,2000,2013,Coverage rate of municipal waste collection by NUTS 2 regions - pilot project data
 env_rwas_gen,2000,2013,Municipal waste by NUTS 2 regions - pilot project data
-env_wasfac,,,Number and capacity of recovery and disposal facilities by NUTS 2 regions
 env_wasfac,2004,2018,Number and capacity of recovery and disposal facilities by NUTS 2 regions
 hlth_cd_acdr,1994,2010,Causes of death by NUTS 2 regions - crude death rate per 100 000 inhabitants - annual data
 hlth_cd_acdr2,2011,2017,Causes of death - crude death rate by NUTS 2 region of residence
@@ -227,7 +215,6 @@ tran_r_rago,2005,2015,Railway transport - national and international railway goo
 tran_r_rapa,2005,2015,Railway transport - national and international railway passengers transport by loading/unloading NUTS 2 region
 tran_r_vehst,1990,2018,Stock of vehicles by category and NUTS 2 regions
 trng_lfse_04,2000,2019,Participation rate in education and training (last 4 weeks) by NUTS 2 regions
-vit_bs4_ro,,,"Area under wine-grape vine varieties broken down by vine variety, age of the vines and NUTS 2 regions - Romania"
 vit_bs4_ro,2009,2009,"Area under wine-grape vine varieties broken down by vine variety, age of the vines and NUTS 2 regions - Romania"
 yth_empl_030,1999,2019,"Youth employment rate by sex, age and NUTS 2 regions"
 yth_empl_110,1999,2019,"Youth unemployment rate by sex, age and NUTS 2 regions"
