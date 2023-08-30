@@ -12,7 +12,7 @@ Other useful data sources include:
 - [Rosés-Wolf GDP Database](https://www.wiwi.hu-berlin.de/de/professuren/vwl/wg/roses-wolf-database-on-regional-gdp) (1900-2015, NUTS-2 only)
 - [Meteorological Indicators](https://data.mendeley.com/datasets/sf9x4h5jfk) (1989-2018, NUTS-3 2016)
 - [Facebook's Social Connectedness Index](https://dataforgood.facebook.com/dfg/docs/methodology-social-connectedness-index) (Oct 2021, NUTS-3 2016-21)
-
+- [The Nordic Statistics database](https://www.nordicstatistics.org/): Collection of comparative Nordic statistics. 
 
 Software: 
 
