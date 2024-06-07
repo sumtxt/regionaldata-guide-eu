@@ -7,6 +7,7 @@ Other useful data sources include:
 - [EUROSTAT NUTS Shapefiles](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts) (NUTS-3 2006-2021)
 - [European NUTS-Level Election Database (EU-NED)](https://eu-ned.com/) (various years, NUTS-3 2016)
 - [ARDECO Database](https://www.camecon.com/european-regional-data/) Various demographic and economic indicators (1980-2022, NUTS-3 2016-2021)
+- [ESPON 2020](https://database.espon.eu/) Various demographic and economic indicators (various years, NUTS-3 various)
 - [ESPON 2006](https://www.espon.eu/tools-maps/espon-2006-tools-database-public-files) Various demographic and economic indicators (around 2006, NUTS-3 1999-2003)
 - [QoG EU Regional Dataset](https://www.gu.se/en/quality-government/qog-data/data-downloads/eu-regional-dataset) Various demographic and economic indicators, as well as quality of government and corruption risk indicators (1990-2020, NUTS-2 only)
 - [Rosés-Wolf GDP Database](https://www.wiwi.hu-berlin.de/de/professuren/vwl/wg/roses-wolf-database-on-regional-gdp) (1900-2015, NUTS-2 only)
