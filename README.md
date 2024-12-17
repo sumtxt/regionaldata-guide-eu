@@ -15,6 +15,7 @@ Other useful data sources include:
 - [Facebook's Social Connectedness Index](https://dataforgood.facebook.com/dfg/docs/methodology-social-connectedness-index) (Oct 2021, NUTS-3 2016-21)
 - [Public Opinion in the EU Regions](https://www.gesis.org/en/eurobarometer-data-service/survey-series/flash-eb/study-overview) (Click on: "Regions and Regional Policy") Surveys with N=300 for each NUTS unit (2012-2021, NUTS 1/2)
 - [EU Regional Competitiveness Index (RCI)](https://ec.europa.eu/regional_policy/information-sources/maps/regional-competitiveness_en) (NUTS-2, 2010-2022)
+- [OECD Regional Statistics](https://www.oecd-ilibrary.org/urban-rural-and-regional-development/data/oecd-regional-statistics_region-data-en) (various years, NUTS-3 various)
 
 Software: 
 
